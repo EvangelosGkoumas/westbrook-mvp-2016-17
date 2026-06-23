@@ -11,6 +11,9 @@ Built with a small SQL + Python pipeline. Every number is reproducible by runnin
 command, and the season's famous stats are **validated against the record books**
 (81 games, 42 triple-doubles, 31.6 / 10.7 / 10.4) before any chart is drawn.
 
+> 📓 **Want the whole analysis in one scrollable page** (narrative + code + charts)? Open
+> [`Westbrook-MVP-analysis.ipynb`](Westbrook-MVP-analysis.ipynb) — it renders right here on GitHub.
+
 ---
 
 ## What the data says
